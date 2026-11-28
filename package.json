@@ -1,0 +1,12 @@
+{
+  "name": "nihat-pro",
+  "version": "2.3.0",
+  "description": "NİHAT PRO — Google Ads, Google Merchant Center ve Meta Ads için 3 Katmanlı SEO & GEO Otomasyon Ajanı",
+  "private": true,
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "bcryptjs": "2.4.3"
+  }
+}

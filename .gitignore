@@ -1,0 +1,18 @@
+# NİHAT PRO — Yerel özel veriler, şifreli kasa ve geçici dosyalar (Git'e asla girmez)
+data/
+.vercel/
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+*.tmp
+*.bak
+*.sql
+*.dump
+*.db
+*.sqlite
+*.key
+*.pem
+.DS_Store
+Thumbs.db

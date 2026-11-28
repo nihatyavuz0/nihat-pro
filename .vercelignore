@@ -1,0 +1,20 @@
+# Vercel yayın paketine girmemesi gereken yerel betik, veri ve yedek dosyaları
+data/
+.git/
+.env
+.env.*
+!.env.example
+*.ps1
+*.bat
+*.vbs
+local-server.js
+tests/
+*.log
+*.tmp
+*.bak
+*.sql
+*.dump
+*.db
+*.sqlite
+*.key
+*.pem
