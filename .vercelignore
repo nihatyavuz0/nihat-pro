@@ -1,6 +1,9 @@
 # Vercel yayın paketine girmemesi gereken yerel betik, veri ve yedek dosyaları
 data/
 .git/
+.vercel/
+.agents/
+AGENTS.md
 .env
 .env.*
 !.env.example
